@@ -4,7 +4,7 @@
 
 1) First Clone this project:
 
-### `git clone `
+### `git clone https://github.com/AmbujKrAK/React-Projects.git`
 
 2) Install node modules:
 
