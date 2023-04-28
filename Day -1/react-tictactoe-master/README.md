@@ -2,7 +2,7 @@
 
 ![alt-text](https://imgur.com/pnFGz02.jpg)
 
-A simple browser-based tic-tac-toe game that depends on a locally-run nodejs server. Done for a school assignment in early 2018.
+A simple browser-based tic-tac-toe game that depends on a locally-run nodejs server.Tic-tac-toe is a two-player game played on a 3x3 grid. The game is typically played with X's and O's, with each player taking turns marking one of the empty squares in the grid. The goal is to get three of your marks in a row, either horizontally, vertically, or diagonally, before your opponent does. If all of the squares are filled without either player achieving three in a row, the game ends in a tie. Tic-tac-toe is a simple and classic game that is easy to learn, but can still be challenging and entertaining for players of all ages.
 
 ## Steps to run
 
